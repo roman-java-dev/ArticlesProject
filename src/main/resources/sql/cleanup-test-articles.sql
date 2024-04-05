@@ -1,0 +1,1 @@
+DELETE FROM articles WHERE author = 'Test';

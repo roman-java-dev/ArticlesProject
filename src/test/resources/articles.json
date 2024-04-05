@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Career of Evil",
+    "author": "Test",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "publishingDate": "2024-02-25T18:15:25"
+  },
+  {
+    "title": "DogMan",
+    "author": "Test",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "publishingDate": "2024-02-22T22:18:31"
+  },
+  {
+    "title": "Harry Potter",
+    "author": "Test",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "publishingDate": "2024-02-11T22:11:00"
+  },
+  {
+    "title": "Fist",
+    "author": "Test",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "publishingDate": "2024-02-18T22:15:25"
+  },
+  {
+    "title": "Second",
+    "author": "Test",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "publishingDate": "2024-02-16T17:15:10"
+  }
+]
